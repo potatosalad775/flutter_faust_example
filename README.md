@@ -27,4 +27,4 @@ or
 $ faust2api -ios -nozip -target /DIR_TO_DSP_FILE
 ```
 
-3. Run Flutter
+Run Flutter
