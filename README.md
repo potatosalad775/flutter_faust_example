@@ -10,7 +10,7 @@ Added Android Support to [Github@Oshibka404's faust_flutter](https://github.com/
 
 [Detailed Explanation written in Korean](https://potatosalad775.tistory.com/7)
 
-Install Faust Package on your System.
+### Install Faust Package
 
 faust2api script only works on bash, you can use WSL on Windows.
 
@@ -19,7 +19,7 @@ $ sudo apt-get update
 $ sudo apt-get install faust
 ```
 
-Build DSP Layer with faust2api
+### Build DSP Layer with faust2api
 
 ```
 $ faust2api -android -nozip /DIR_TO_DSP_FILE
@@ -27,4 +27,8 @@ or
 $ faust2api -ios -nozip -target /DIR_TO_DSP_FILE
 ```
 
-Run Flutter
+### Run Flutter
+
+```
+$ flutter run
+```
