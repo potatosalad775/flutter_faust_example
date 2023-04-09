@@ -4,7 +4,7 @@ Template for Flutter & Faust DSP Project.
 
 You can use [Change Package Name](https://pub.dev/packages/change_app_package_name) Package to change its name.
 
-Added Android Support to [Github@Oshibka404's faust_flutter](https://github.com/oshibka404/faust_flutter).
+Added Android Support upon [Github@Oshibka404's faust_flutter](https://github.com/oshibka404/faust_flutter).
 
 ## How to Build
 
